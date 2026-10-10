@@ -3,7 +3,7 @@
 # 💫 Roshan Chaudhari
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=680&height=100&lines=Full-Stack+Software+Engineer+(React+19+%7C+Next.js);AI+%26+Computer+Vision+Specialist+(YOLOv8+%7C+PyTorch);Mobile+Architect+(React+Native+%7C+Expo+SDK+54);Contributor+Across+30%2B+Production+Enterprise+Codebases" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=680&height=140&lines=Full-Stack+Software+Engineer+(React+19+%7C+Next.js);AI+%26+Computer+Vision+Specialist+(YOLOv8+%7C+PyTorch);Mobile+Architect+(React+Native+%7C+Expo+SDK+54);Contributor+Across+30%2B+Production+Enterprise+Codebases" alt="Typing SVG" />
 </p>
 
 <p align="center">
