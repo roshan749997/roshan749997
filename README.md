@@ -1,164 +1,74 @@
 <div align="center">
 
 # 💫 Roshan Chaudhari
-### Full-Stack Software Engineer &bull; AI & Computer Vision &bull; Mobile Developer
-
-[![Profile Views](https://komarev.com/ghpvc/?username=roshan749997&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/roshan749997)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-roshan749997-181717?style=flat-square&logo=github)](https://github.com/roshan749997)
-[![Location](https://img.shields.io/badge/Location-Maharashtra%2C%20India-orange?style=flat-square&logo=google-maps)](https://maps.google.com)
 
 <p align="center">
-  <b>Architecting scalable web platforms, high-performance mobile apps, and intelligent Computer Vision systems.</b><br />
-  Collaborating across multiple product organizations, enterprise clients, and engineering teams.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Full-Stack+Software+Engineer+(React+19+%7C+Next.js);AI+%26+Computer+Vision+Specialist+(YOLOv8+%7C+PyTorch);Mobile+Architect+(React+Native+%7C+Expo+SDK+54);Active+Contributor+Across+30%2B+Production+Repositories" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/roshan749997"><img src="https://img.shields.io/badge/Total_Commits-1%2C780%2B-blue?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" /></a>
+  <a href="https://github.com/roshan749997"><img src="https://img.shields.io/badge/Pull_Requests-110%2B-purple?style=for-the-badge&logo=github&logoColor=white" alt="PRs" /></a>
+  <a href="https://github.com/roshan749997"><img src="https://img.shields.io/badge/Collaborated_Repos-31%2B-success?style=for-the-badge&logo=gitkraken&logoColor=white" alt="Collaborated Repos" /></a>
+  <a href="https://github.com/roshan749997"><img src="https://komarev.com/ghpvc/?username=roshan749997&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /></a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:roshanchaudhari4145@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Maharashtra%2C_India-orange?style=flat-square&logo=google-maps" alt="Location" />
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Professional Summary
+## 👨‍💻 Executive Engineering Summary
 
-- 🚀 **Full-Stack Engineering:** Designing performant, responsive web applications using **React 19, Next.js (App Router), TypeScript, Express 5, and MongoDB**.
-- 📱 **Mobile App Development:** Building cross-platform mobile apps using **React Native & Expo SDK 54** with native hardware APIs and proctoring controls.
-- 🧠 **Applied AI & Computer Vision:** Fine-tuning **YOLOv8** object detection models for real-world environmental sustainability, and integrating **Google Gemini** LLM APIs.
-- 🤝 **Team Collaboration:** Active contributor across 30+ repositories spanning enterprise CRMs, EdTech portals, retail platforms, and mobile apps.
+I am a **Full-Stack Software Engineer** and **Applied AI Developer** focused on engineering reliable, scalable, and delightful software products. With **over 1,780+ commits** and active collaborations across **30+ multi-team codebases**, I bring hands-on experience bridging cutting-edge frontend architectures, robust backend microservices, real-time Computer Vision pipelines, and cross-platform mobile apps.
 
----
-
-### 🛠️ Tech Stack & Skills Matrix
-
-<table>
-  <tr>
-    <td width="22%"><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="TanStack Query" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & Cloud</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
-      <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Mobile</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
-      <img src="https://img.shields.io/badge/Expo_SDK_54-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-      <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI & Computer Vision</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/YOLOv8-00599C?style=flat-square&logo=ultralytics&logoColor=white" alt="YOLOv8" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/Google_Gemini_API-8E75C2?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    </td>
-  </tr>
-</table>
+- ⚡ **Full-Stack Systems:** Building production apps using React 19, Next.js (App Router), TypeScript, Express 5, and MongoDB.
+- 📱 **Mobile Engineering:** Architecting cross-platform apps using React Native and Expo SDK 54 with device camera streams & biometric proctoring.
+- 🧠 **Computer Vision & AI:** Fine-tuning YOLOv8 custom weights for object detection and integrating LLM APIs (Google Gemini, OpenAI).
+- 🤝 **Multi-Team Collaboration:** Leading feature branches, reviewing code, and delivering features across enterprise CRMs, EdTech portals, and client platforms.
 
 ---
 
-### 🤝 Multi-Project Collaboration & Team Work
+## 🛠️ Technology Stack & Skills
 
-I actively collaborate across multiple tech organizations, software companies, and partner teams:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,tailwind,vite,redux,python,pytorch,postman,git,github,vscode,docker,figma&theme=dark&perline=9" alt="Skills Matrix" />
+</p>
 
-<table>
-  <thead>
-    <tr>
-      <th width="32%">Organization / Team</th>
-      <th width="38%">Collaborated Repositories</th>
-      <th>Domain & Tech Highlights</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Kodeo Software Technology</b></td>
-      <td>
-        • <a href="https://github.com/kodeosoftwaretechnology/Vidyank"><code>kodeosoftwaretechnology/Vidyank</code></a><br />
-        • <a href="https://github.com/kodeosoftwaretechnology/Vidyank_Exam_Application"><code>kodeosoftwaretechnology/Vidyank_Exam_Application</code></a>
-      </td>
-      <td>Cross-platform online examination platform, anti-cheating protocols, and TypeScript Expo workflows.</td>
-    </tr>
-    <tr>
-      <td><b>Gamotech Repositories & Softa</b></td>
-      <td>
-        • <a href="https://github.com/GamotechRepositories/CRM"><code>GamotechRepositories/CRM</code></a><br />
-        • <a href="https://github.com/GamotechRepositories/Ezgo"><code>GamotechRepositories/Ezgo</code></a><br />
-        • <a href="https://github.com/GamotechRepositories/BulkMobileMart"><code>GamotechRepositories/BulkMobileMart</code></a><br />
-        • <a href="https://github.com/GamotechSofta/learningplatform"><code>GamotechSofta/learningplatform</code></a><br />
-        • <a href="https://github.com/GamotechSofta/CLUB-ZENO"><code>GamotechSofta/CLUB-ZENO</code></a>
-      </td>
-      <td>Enterprise CRM solutions, B2B wholesale portals, ed-tech learning systems, and interactive platforms.</td>
-    </tr>
-    <tr>
-      <td><b>Digital Buddies Pune</b></td>
-      <td>
-        • <a href="https://github.com/digitalbuddiesspune/vidyank"><code>digitalbuddiesspune/vidyank</code></a><br />
-        • <a href="https://github.com/digitalbuddiesspune/Stylishbubbles"><code>digitalbuddiesspune/Stylishbubbles</code></a><br />
-        • <a href="https://github.com/digitalbuddiesspune/researchMorePublication"><code>digitalbuddiesspune/researchMorePublication</code></a>
-      </td>
-      <td>Production web applications, client showcase platforms, and research publishing systems.</td>
-    </tr>
-    <tr>
-      <td><b>Collaborative Product Initiatives</b></td>
-      <td>
-        • <a href="https://github.com/PrajwalKamdi/Dynamic-World"><code>PrajwalKamdi/Dynamic-World</code></a><br />
-        • <a href="https://github.com/PrajwalKamdi/PravaraHealthClinic"><code>PrajwalKamdi/PravaraHealthClinic</code></a><br />
-        • <a href="https://github.com/Rishikesh5577/TickNTrack"><code>Rishikesh5577/TickNTrack</code></a><br />
-        • <a href="https://github.com/Growwcode/Growwcode.com"><code>Growwcode/Growwcode.com</code></a>
-      </td>
-      <td>Interactive dynamic web apps, healthcare portals, task tracking tools, and digital agency web apps.</td>
-    </tr>
-  </tbody>
-</table>
+| Category | Core Frameworks & Libraries |
+| :--- | :--- |
+| **Frontend Frameworks** | React 19, Next.js 15 (App Router), TypeScript, JavaScript (ESNext), Tailwind CSS v4, Vite, TanStack Query v5 |
+| **Backend & APIs** | Node.js, Express 5, RESTful APIs, Mongoose, JWT Authentication, Bcrypt, Pino, Zod, Swagger |
+| **Mobile App Development** | React Native (0.81), Expo SDK 54, React Navigation v7, Hardware Camera APIs, Face Tracking |
+| **AI, ML & Computer Vision** | YOLOv8 (Ultralytics), PyTorch, OpenCV, Google Gemini API SDK, Streamlit, Roboflow |
+| **Cloud, DevOps & Tooling** | Render, Git, GitHub Actions, Postman, Prettier, ESLint, npm Workspaces |
 
 ---
 
-### 🌟 Featured Independent Engineering Projects
+## 📊 Contribution Activity & Heatmap Graph
 
-| Project | Tech Stack | Highlights |
-| :--- | :---: | :--- |
-| 🤖 [**Ocean Plastics Waste Detection**](https://github.com/roshan749997/AI-powered-tool-for-detecting-waste-materials-in-the-ocean-using-YOLOv8) | `YOLOv8` `PyTorch` `Streamlit` `Python` | Real-time marine debris detection classifying Glass, Metal, Plastic, and Trash with custom fine-tuned weights. |
-| ⚡ [**AI Developer Report Generator**](https://github.com/roshan749997/AI-Developer-Report-Generator) | `React 19` `TypeScript` `Gemini API` `Node.js` | Production monorepo utilizing Google Gemini & OpenAI LLMs to generate automated status, PDF, and DOCX reports. |
-| 📱 [**Vidyank Mobile Exam App**](https://github.com/roshan749997/VIDYANK-EXAM-APPLICATION) | `Expo SDK 54` `React Native` `Face Tracking` | Secure testing app with AI proctoring via `expo-face-detector`, camera streaming, and navigation guards. |
-| 🏥 [**Pravara HealthCare Portal**](https://github.com/roshan749997/PravaraHealthCare) | `React 19` `Express 5` `MongoDB` `Recharts` | Clinical hospital portal with interactive patient metrics, JWT auth, and declarative Render deployment. |
-| 🛋️ [**The Casawood Furniture E-Commerce**](https://github.com/roshan749997/thecasawood) | `React` `Node.js` `Fabric Engine` | High-end furniture web app featuring real-time interactive upholstery fabric texture and color customization. |
-| 🌸 [**Women Empower Platform**](https://github.com/roshan749997/Women-Empower) | `Next.js` `TypeScript` `Tailwind CSS` | Social commerce marketplace featuring artisan creator storefronts, skill courses, workshops, and dashboards. |
-
----
-
-### 📊 GitHub Activity & Metrics
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/roshan749997" alt="Roshan's Contribution Heatmap" width="100%" />
+</p>
 
 <div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=roshan749997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=roshan749997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="95%" alt="GitHub Stats" />
       </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan749997&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan749997&layout=compact&theme=tokyonight&hide_border=true" width="95%" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan749997&theme=tokyonight&hide_border=true" width="85%" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=roshan749997&theme=tokyonight&hide_border=true" width="85%" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -166,7 +76,138 @@ I actively collaborate across multiple tech organizations, software companies, a
 
 ---
 
+## 🤝 Multi-Project Collaboration & Enterprise Work (31+ Codebases)
+
+I actively contribute as a core collaborator and team developer across client engineering teams, software agencies, and product startups:
+
+### 🎓 1. Kodeo Software Technology &bull; EdTech & Mobile Systems
+> **Enterprise Examination Engines & AI Proctoring Infrastructure**
+* [**`kodeosoftwaretechnology/Vidyank`**](https://github.com/kodeosoftwaretechnology/Vidyank)  
+  *Core EdTech Testing Platform:* Student exam workflows, dynamic question engines, and analytics dashboards built in TypeScript.
+* [**`kodeosoftwaretechnology/Vidyank_Exam_Application`**](https://github.com/kodeosoftwaretechnology/Vidyank_Exam_Application) &bull; [**`Vidyank-Exam-Application`**](https://github.com/kodeosoftwaretechnology/Vidyank-Exam-Application)  
+  *Cross-Platform Mobile Testing Client:* Real-time hardware camera face verification, strict test-state navigation locks, and anti-cheating protections using Expo SDK and TypeScript.
+* **Key Responsibilities:** Mobile UI/UX, Camera proctoring state machines, secure test submission pipelines.
+
+---
+
+### 🏢 2. Gamotech Enterprise & Gamotech Softa &bull; Cloud SaaS & Platforms
+> **Enterprise CRMs, B2B E-Commerce & Interactive Learning Environments**
+* [**`GamotechRepositories/CRM`**](https://github.com/GamotechRepositories/CRM)  
+  *Enterprise CRM:* Lead tracking, sales conversion pipelines, customer lifecycle management, and role-based permissions.
+* [**`GamotechRepositories/BulkMobileMart`**](https://github.com/GamotechRepositories/BulkMobileMart)  
+  *B2B Wholesale Portal:* High-volume smartphone distribution catalog, bulk order checkout, and inventory reconciliation.
+* [**`GamotechRepositories/Ezgo`**](https://github.com/GamotechRepositories/Ezgo)  
+  *Scalable Service Engine:* Modern TypeScript web service with responsive booking workflows and real-time state management.
+* [**`GamotechSofta/learningplatform`**](https://github.com/GamotechSofta/learningplatform)  
+  *Comprehensive LMS:* Course syllabus navigation, interactive video lesson modules, and student progress metrics.
+* [**`GamotechSofta/CLUB-ZENO`**](https://github.com/GamotechSofta/CLUB-ZENO)  
+  *Community Engagement Hub:* Member profiles, interactive community spaces, and event booking.
+* **Key Responsibilities:** Full-stack feature engineering, REST APIs, database schemas, and performance tuning.
+
+---
+
+### 🌐 3. Digital Buddies Pune &bull; Web Engineering & Research Systems
+> **Academic Publishing Platforms & Client Web Apps**
+* [**`digitalbuddiesspune/vidyank`**](https://github.com/digitalbuddiesspune/vidyank)  
+  *Institutional Portal:* Scalable web front for educational institutions and administrator management.
+* [**`digitalbuddiesspune/researchMorePublication`**](https://github.com/digitalbuddiesspune/researchMorePublication)  
+  *Scholarly Publishing System:* Scientific paper catalog, peer review status tracking, and author submission flows.
+* [**`digitalbuddiesspune/Stylishbubbles`**](https://github.com/digitalbuddiesspune/Stylishbubbles)  
+  *Client Brand Platform:* Responsive, modern showcase portal with interactive animations.
+* **Key Responsibilities:** Frontend architecture, responsive layout optimizations, and API integrations.
+
+---
+
+### 💡 4. Collaborative Product Initiatives & Specialized Tools
+> **Partner Apps, Healthcare & Productivity Dashboards**
+* [**`PrajwalKamdi/PravaraHealthClinic`**](https://github.com/PrajwalKamdi/PravaraHealthClinic) &bull; Clinical appointment booking, doctor schedules, and patient consultation records.
+* [**`PrajwalKamdi/Dynamic-World`**](https://github.com/PrajwalKamdi/Dynamic-World) &bull; Dynamic component-driven web application and prototype sandbox.
+* [**`Rishikesh5577/TickNTrack`**](https://github.com/Rishikesh5577/TickNTrack) &bull; Developer sprint time-tracking, productivity analytics, and task boards.
+* [**`Growwcode/Growwcode.com`**](https://github.com/Growwcode/Growwcode.com) &bull; Digital software agency platform and client showcase portal.
+
+---
+
+## 🌟 Flagship Personal Engineering Projects
+
+<table>
+  <thead>
+    <tr>
+      <th width="30%">Project</th>
+      <th width="30%">Technology Stack</th>
+      <th>Key Features & Architecture</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        🤖 <a href="https://github.com/roshan749997/AI-powered-tool-for-detecting-waste-materials-in-the-ocean-using-YOLOv8"><b>Ocean Plastics Waste Detection</b></a>
+      </td>
+      <td>
+        <code>YOLOv8</code> <code>PyTorch</code><br />
+        <code>Streamlit</code> <code>Python</code>
+      </td>
+      <td>Real-time Computer Vision system classifying floating marine debris into 4 categories (Glass, Metal, Plastic, Trash) using fine-tuned YOLOv8 weights with visual bounding boxes.</td>
+    </tr>
+    <tr>
+      <td>
+        ⚡ <a href="https://github.com/roshan749997/AI-Developer-Report-Generator"><b>AI Developer Report Generator</b></a>
+      </td>
+      <td>
+        <code>React 19</code> <code>TypeScript</code><br />
+        <code>Google Gemini</code> <code>Express</code>
+      </td>
+      <td>Production monorepo utilizing Google Gemini API & OpenAI LLMs to convert code changes into formatted sprint status reports in DOCX and PDF formats.</td>
+    </tr>
+    <tr>
+      <td>
+        📱 <a href="https://github.com/roshan749997/VIDYANK-EXAM-APPLICATION"><b>Vidyank Mobile Exam App</b></a>
+      </td>
+      <td>
+        <code>Expo SDK 54</code> <code>React Native</code><br />
+        <code>Face Detection</code> <code>TypeScript</code>
+      </td>
+      <td>Enterprise-grade mobile testing application featuring continuous AI face detection proctoring, exam navigation locks, and multi-factor candidate verification.</td>
+    </tr>
+    <tr>
+      <td>
+        🏥 <a href="https://github.com/roshan749997/PravaraHealthCare"><b>Pravara HealthCare Portal</b></a>
+      </td>
+      <td>
+        <code>React 19</code> <code>Express 5</code><br />
+        <code>MongoDB</code> <code>Recharts</code>
+      </td>
+      <td>Clinical hospital management platform with interactive analytics dashboards, role-based JWT auth, and automated cloud deployment via <code>render.yaml</code>.</td>
+    </tr>
+    <tr>
+      <td>
+        🛋️ <a href="https://github.com/roshan749997/thecasawood"><b>The Casawood Furniture</b></a>
+      </td>
+      <td>
+        <code>React</code> <code>Node.js</code><br />
+        <code>Fabric Customizer</code> <code>MongoDB</code>
+      </td>
+      <td>Luxury furniture shopping web application featuring a real-time interactive upholstery fabric texture and color customizer engine.</td>
+    </tr>
+    <tr>
+      <td>
+        🌸 <a href="https://github.com/roshan749997/Women-Empower"><b>Women Empower Marketplace</b></a>
+      </td>
+      <td>
+        <code>Next.js (App Router)</code> <code>TypeScript</code><br />
+        <code>Tailwind CSS</code> <code>E-Commerce</code>
+      </td>
+      <td>Social impact multi-vendor marketplace connecting women artisans with buyers, featuring artist profiles, craft courses, events, and creator dashboards.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 <div align="center">
-  <b>Let's build something impactful together!</b><br />
-  📫 Connect with me on <a href="https://github.com/roshan749997">GitHub</a> &bull; <a href="https://linkedin.com">LinkedIn</a>
+  <h3>🤝 Open for Opportunities & High-Impact Collaborations</h3>
+  <p>
+    Whether you're building a scalable web platform, a cross-platform mobile app, or an AI/Vision model &mdash; let's connect!
+  </p>
+  <a href="mailto:roshanchaudhari4145@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-roshanchaudhari4145@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Roshan" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_Roshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 </div>
