@@ -81,108 +81,179 @@ Full-Stack Software Engineer and Applied AI developer with **over 1,780+ product
 
 ## 🤝 Featured Collaborator & Enterprise Codebases (31+ Repositories)
 
-Active core collaborator and team developer across enterprise agencies, product studios, and client systems:
+> Active core collaborator and team developer across enterprise agencies, product studios, and client systems:
 
-<div align="center">
-
-<table border="0" width="100%">
+<table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/kodeosoftwaretechnology/Vidyank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kodeosoftwaretechnology&repo=Vidyank&theme=tokyonight&hide_border=true" width="100%" alt="Vidyank Exam" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/kodeosoftwaretechnology/Vidyank">Vidyank &bull; EdTech Exam Suite</a></h3>
+      <p><b>🏢 Organization:</b> <a href="https://github.com/kodeosoftwaretechnology">Kodeo Software Technology</a></p>
+      <p>Enterprise mobile examination client engineered with AI camera proctoring, facial presence tracking, strict navigation locks, and instant SMS/Email candidate verification.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Mobile%20Architecture-blue?style=flat-square" alt="Role" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Expo_SDK_54-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+      </p>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/GamotechRepositories/Ezgo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GamotechRepositories&repo=Ezgo&theme=tokyonight&hide_border=true" width="100%" alt="Ezgo Platform" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🏢 <a href="https://github.com/GamotechRepositories/CRM">Gamotech Enterprise CRM</a></h3>
+      <p><b>🏢 Organization:</b> <a href="https://github.com/GamotechRepositories">Gamotech Repositories</a></p>
+      <p>Multi-tenant Real Estate & SalesTech CRM with centralized client dashboards and segregated portals (MahaProperties, BangarProperties, SalesTech Reality) for automated lead pipelines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Full--Stack%20CRM-green?style=flat-square" alt="Role" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/GamotechRepositories/CRM">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GamotechRepositories&repo=CRM&theme=tokyonight&hide_border=true" width="100%" alt="Enterprise CRM" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/GamotechSofta/offlineGame2">offlineGame2 &bull; Real-Time Platform</a></h3>
+      <p><b>🏢 Organization:</b> <a href="https://github.com/GamotechSofta">Gamotech Softa</a> &bull; <b>⭐ 93+ Production Commits</b></p>
+      <p>High-concurrency gaming management engine with real-time state synchronization across Admin, SuperBookie, Bookie, and Frontend client interfaces.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Contributions-93%2B%20Commits-purple?style=flat-square" alt="Commits" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+      </p>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/GamotechSofta/offlineGame2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GamotechSofta&repo=offlineGame2&theme=tokyonight&hide_border=true" width="100%" alt="Offline Game System" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🛍️ <a href="https://github.com/GamotechRepositories/Ezgo">Ezgo Multi-Vendor Platform</a></h3>
+      <p><b>🏢 Organization:</b> <a href="https://github.com/GamotechRepositories">Gamotech Repositories</a></p>
+      <p>Scalable on-demand service and booking ecosystem with isolated Admin Portal, Vendor Portal, and backend microservices orchestrated via Docker Compose.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Microservices-orange?style=flat-square" alt="Role" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/digitalbuddiesspune/researchMorePublication">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=digitalbuddiesspune&repo=researchMorePublication&theme=tokyonight&hide_border=true" width="100%" alt="Research Publication" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/digitalbuddiesspune/researchMorePublication">Research More Publication</a></h3>
+      <p><b>🏢 Organization:</b> <a href="https://github.com/digitalbuddiesspune">Digital Buddies Pune</a></p>
+      <p>Peer-reviewed scholarly journal indexing system featuring manuscript submission pipelines, reviewer evaluation portals, and public digital archives.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Web%20Platform-teal?style=flat-square" alt="Role" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/PrajwalKamdi/Dynamic-World">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrajwalKamdi&repo=Dynamic-World&theme=tokyonight&hide_border=true" width="100%" alt="Dynamic World" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/PrajwalKamdi/Dynamic-World">Dynamic World Portal</a></h3>
+      <p><b>🏢 Organization:</b> Collaborative Product Initiative</p>
+      <p>Interactive component-driven web application featuring reactive state management, prototype testing sandboxes, and modern responsive UI flows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Frontend%20Eng-yellow?style=flat-square" alt="Role" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="https://github.com/PrajwalKamdi/PravaraHealthClinic">Pravara Health Clinic</a></h3>
+      <p><b>🏢 Organization:</b> Collaborative Product Initiative</p>
+      <p>Clinical management portal for patient registration, doctor consultation scheduling, medical appointment tracking, and diagnostic record handling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Full--Stack-blue?style=flat-square" alt="Role" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/Healthcare-E3342F?style=flat-square" alt="Health" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⏱️ <a href="https://github.com/Rishikesh5577/TickNTrack">TickNTrack Productivity System</a></h3>
+      <p><b>🏢 Organization:</b> Collaborative Product Initiative</p>
+      <p>Developer sprint time tracking and task monitor allowing engineering teams to log hours, track sprint velocity, and optimize project delivery cycles.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Dashboard%20UI-indigo?style=flat-square" alt="Role" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+        <img src="https://img.shields.io/badge/Analytics-00b4d8?style=flat-square" alt="Analytics" />
+      </p>
     </td>
   </tr>
 </table>
-
-</div>
-
-### 🏢 Deep-Dive Breakdown of Collaborative Contributions
-
-| Organization & Project | Architecture & Tech Stack | My Engineering Contributions & Impact |
-| :--- | :--- | :--- |
-| **Kodeo Software Technology**<br />[`kodeosoftwaretechnology/Vidyank`](https://github.com/kodeosoftwaretechnology/Vidyank)<br />[`kodeosoftwaretechnology/Vidyank_Exam_Application`](https://github.com/kodeosoftwaretechnology/Vidyank_Exam_Application) | `TypeScript` &bull; `React Native`<br />`Expo SDK 54` &bull; `Face API`<br />`SendGrid` &bull; `Twilio` | **Mobile Architecture & Anti-Cheating Engine:** Engineered hardware camera stream verification, facial presence tracking, multi-screen navigation locks, and instant SMS/Email candidate verification. |
-| **Gamotech Enterprise**<br />[`GamotechRepositories/CRM`](https://github.com/GamotechRepositories/CRM) | `React` &bull; `Node.js`<br />`Express` &bull; `MongoDB`<br />`Multi-Portal Setup` | **Multi-Tenant Sales & Real-Estate CRM:** Built centralized client dashboard and segregated portals (`mahaProperties`, `bangarProperties`, `salesTechReality`, `meeting_app`) for automated lead management. |
-| **Gamotech Enterprise**<br />[`GamotechRepositories/Ezgo`](https://github.com/GamotechRepositories/Ezgo)<br />[`GamotechRepositories/BulkMobileMart`](https://github.com/GamotechRepositories/BulkMobileMart) | `TypeScript` &bull; `React`<br />`Docker Compose`<br />`Admin & Vendor Portals` | **Multi-Vendor Booking & B2B Wholesale:** Built modular architecture with isolated `admin-portal`, `vendor-portal`, and backend services configured for unified Docker Compose deployment. |
-| **Gamotech Softa**<br />[`GamotechSofta/offlineGame2`](https://github.com/GamotechSofta/offlineGame2)<br />[`GamotechRepositories/Rummy`](https://github.com/GamotechRepositories/Rummy) | `JavaScript` &bull; `Node.js`<br />`Real-Time Engine`<br />`Render Cloud Spec` | **93+ Production Commits:** Developed real-time multi-role gaming architecture with synchronized state across `admin`, `superbookie`, `bookie`, `frontend`, and live result broadcasts. |
-| **Digital Buddies Pune**<br />[`digitalbuddiesspune/researchMorePublication`](https://github.com/digitalbuddiesspune/researchMorePublication)<br />[`digitalbuddiesspune/vidyank`](https://github.com/digitalbuddiesspune/vidyank)<br />[`digitalbuddiesspune/Doormart1`](https://github.com/digitalbuddiesspune/Doormart1) | `React` &bull; `Express`<br />`Mongoose` &bull; `RBAC`<br />`Admin / Staff Portals` | **Academic Publishing & Retail Platforms:** Developed peer-reviewed manuscript submission tracking, staff evaluation portals, and DoorMart on-demand retail commerce frontend. |
-| **Partner Product Initiatives**<br />[`PrajwalKamdi/PravaraHealthClinic`](https://github.com/PrajwalKamdi/PravaraHealthClinic)<br />[`Rishikesh5577/TickNTrack`](https://github.com/Rishikesh5577/TickNTrack)<br />[`Growwcode/Growwcode.com`](https://github.com/Growwcode/Growwcode.com) | `React` &bull; `Node.js`<br />`Recharts` &bull; `REST APIs`<br />`Sprint Productivity` | **Healthcare Portals & Productivity Apps:** Implemented clinical appointment scheduling, doctor time allocations, developer task tracking boards, and agency platforms. |
 
 ---
 
 ## 🌟 Top Flagship Independent Projects
 
-<div align="center">
-
-<table border="0" width="100%">
+<table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/roshan749997/AI-Developer-Report-Generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshan749997&repo=AI-Developer-Report-Generator&theme=tokyonight&hide_border=true" width="100%" alt="AI Developer Report Generator" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/roshan749997/AI-Developer-Report-Generator">AI Developer Report Generator</a></h3>
+      <p>Production monorepo utilizing Google Gemini API & OpenAI LLMs to convert code changes into formatted sprint status reports in DOCX and PDF formats.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      </p>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/roshan749997/AI-powered-tool-for-detecting-waste-materials-in-the-ocean-using-YOLOv8">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshan749997&repo=AI-powered-tool-for-detecting-waste-materials-in-the-ocean-using-YOLOv8&theme=tokyonight&hide_border=true" width="100%" alt="Ocean Plastics YOLOv8" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/roshan749997/AI-powered-tool-for-detecting-waste-materials-in-the-ocean-using-YOLOv8">Ocean Plastics Waste Detection</a></h3>
+      <p>Real-time Computer Vision system classifying floating marine debris into 4 categories (Glass, Metal, Plastic, Trash) using fine-tuned YOLOv8 weights with visual bounding boxes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/YOLOv8-00599C?style=flat-square&logo=ultralytics&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/roshan749997/VIDYANK-EXAM-APPLICATION">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshan749997&repo=VIDYANK-EXAM-APPLICATION&theme=tokyonight&hide_border=true" width="100%" alt="Vidyank Exam Application" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/roshan749997/VIDYANK-EXAM-APPLICATION">Vidyank Mobile Exam App</a></h3>
+      <p>Enterprise-grade mobile testing application featuring continuous AI face detection proctoring, exam navigation locks, and multi-factor candidate verification.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Expo_SDK_54-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Face_Detection-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/roshan749997/PravaraHealthCare">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshan749997&repo=PravaraHealthCare&theme=tokyonight&hide_border=true" width="100%" alt="Pravara HealthCare" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="https://github.com/roshan749997/PravaraHealthCare">Pravara HealthCare Portal</a></h3>
+      <p>Clinical hospital management platform with interactive analytics dashboards, role-based JWT auth, and automated cloud deployment via <code>render.yaml</code>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Recharts-22b573?style=flat-square" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/roshan749997/thecasawood">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshan749997&repo=thecasawood&theme=tokyonight&hide_border=true" width="100%" alt="The Casawood" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🛋️ <a href="https://github.com/roshan749997/thecasawood">The Casawood Furniture</a></h3>
+      <p>Luxury furniture shopping web application featuring a real-time interactive upholstery fabric texture and color customizer engine.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Interactive_UI-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/roshan749997/Women-Empower">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshan749997&repo=Women-Empower&theme=tokyonight&hide_border=true" width="100%" alt="Women Empower" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🌸 <a href="https://github.com/roshan749997/Women-Empower">Women Empower Marketplace</a></h3>
+      <p>Social impact multi-vendor marketplace connecting women artisans with buyers, featuring artist profiles, craft courses, events, and creator dashboards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/E--Commerce-pink?style=flat-square" />
+      </p>
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
