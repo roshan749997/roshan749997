@@ -10,7 +10,7 @@
   <a href="https://github.com/roshan749997"><img src="https://img.shields.io/badge/Total_Commits-1%2C780%2B-fe428e?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" /></a>
   <a href="https://github.com/roshan749997"><img src="https://img.shields.io/badge/Pull_Requests-110%2B-a8ff12?style=for-the-badge&logo=github&logoColor=black" alt="PRs" /></a>
   <a href="https://github.com/roshan749997"><img src="https://img.shields.io/badge/Collaborated_Repos-31%2B-00e8c6?style=for-the-badge&logo=gitkraken&logoColor=black" alt="Collaborated Repos" /></a>
-  <a href="https://github.com/roshan749997"><img src="https://komarev.com/ghpvc/?username=roshan749997&label=Profile%20Views&color=f8d847&style=for-the-badge" alt="Profile Views" /></a>
+  <img src="https://img.shields.io/badge/Status-Active_Engineer-f8d847?style=for-the-badge&logo=github&logoColor=black" alt="Status" />
 </p>
 
 <p align="center">
