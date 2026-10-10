@@ -64,7 +64,7 @@ Full-Stack Software Engineer and Applied AI developer with **over 1,780+ product
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/roshan749997">
-        <img src="https://github-readme-stats.vercel.app/api?username=roshan749997&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="Core Engineering Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=roshan749997&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" width="100%" alt="Core Engineering Stats" />
       </a>
     </td>
     <td width="50%" align="center">
