@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/roshan749997"><img src="https://img.shields.io/badge/Total_Commits-1%2C780%2B-blue?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" /></a>
-  <a href="https://github.com/roshan749997"><img src="https://img.shields.io/badge/Pull_Requests-110%2B-purple?style=for-the-badge&logo=github&logoColor=white" alt="PRs" /></a>
-  <a href="https://github.com/roshan749997"><img src="https://img.shields.io/badge/Collaborated_Repos-31%2B-00b4d8?style=for-the-badge&logo=gitkraken&logoColor=white" alt="Collaborated Repos" /></a>
-  <a href="https://github.com/roshan749997"><img src="https://komarev.com/ghpvc/?username=roshan749997&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /></a>
+  <a href="https://github.com/roshan749997"><img src="https://img.shields.io/badge/Total_Commits-1%2C780%2B-fe428e?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" /></a>
+  <a href="https://github.com/roshan749997"><img src="https://img.shields.io/badge/Pull_Requests-110%2B-a8ff12?style=for-the-badge&logo=github&logoColor=black" alt="PRs" /></a>
+  <a href="https://github.com/roshan749997"><img src="https://img.shields.io/badge/Collaborated_Repos-31%2B-00e8c6?style=for-the-badge&logo=gitkraken&logoColor=black" alt="Collaborated Repos" /></a>
+  <a href="https://github.com/roshan749997"><img src="https://komarev.com/ghpvc/?username=roshan749997&label=Profile%20Views&color=f8d847&style=for-the-badge" alt="Profile Views" /></a>
 </p>
 
 <p align="center">
@@ -56,26 +56,44 @@ Full-Stack Software Engineer and Applied AI developer with **over 1,780+ product
 
 ---
 
-## 📈 Engineering Performance & Stats
+## 📊 Developer Analytics & Engineering Velocity Dashboard
 
 <div align="center">
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=roshan749997&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
-</p>
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=roshan749997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+      <a href="https://github.com/roshan749997">
+        <img src="https://github-readme-stats.vercel.app/api?username=roshan749997&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="Core Engineering Stats" />
+      </a>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan749997&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      <a href="https://github.com/roshan749997">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan749997&layout=compact&theme=radical&hide_border=true&langs_count=8" width="100%" alt="Language Composition" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/roshan749997">
+        <img src="https://streak-stats.demolab.com?user=roshan749997&theme=radical&hide_border=true" width="98%" alt="Commit & Streak Consistency" />
+      </a>
     </td>
   </tr>
 </table>
 
 </div>
+
+### ⚡ Key Engineering Performance Indicators (KPIs)
+
+| Metric Category | Verified Output | Scale & Architectural Scope | Core Technologies |
+| :--- | :---: | :--- | :--- |
+| 🚀 **Total Production Commits** | **1,780+** | High-velocity continuous integration across personal & client codebases | Git, CI/CD, GitHub Workflows |
+| 🔀 **Pull Requests & Code Reviews** | **110+** | Multi-team feature branches, architectural refactoring, and PR deliveries | GitHub PRs, Code Review, Branching |
+| 🏢 **Partner Ecosystems & Teams** | **5 Organizations** | Kodeo Software Technology, Gamotech Enterprise, Digital Buddies Pune, etc. | Microservices, Multi-Tenant SaaS |
+| 🌐 **Collaborated Codebases** | **31+ Repos** | Enterprise CRMs, real-time gaming engines, EdTech proctoring, e-commerce | React 19, TypeScript, Docker, Expo |
+| 📱 **Mobile Exam Architecture** | **Production Grade** | AI camera face tracking, hardware proctoring, state-locked navigation | Expo SDK 54, React Native |
+| 🤖 **Computer Vision & AI** | **Custom Fine-Tuned** | Marine waste object detection (Glass, Metal, Plastic, Trash) + LLMs | YOLOv8, PyTorch, Gemini API |
 
 ---
 
