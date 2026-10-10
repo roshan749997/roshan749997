@@ -1,15 +1,16 @@
 <div align="center">
 
-# 💫 Roshan Chaudhari
+# 🎨 Roshan Chaudhari
+### Creative Full-Stack Engineer &bull; 3D Web Developer &bull; AI Architect
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=680&height=100&lines=Full-Stack+Software+Engineer+(React+19+%7C+Next.js);AI+%26+Computer+Vision+Specialist+(YOLOv8+%7C+PyTorch);Mobile+Architect+(React+Native+%7C+Expo+SDK+54);Contributor+Across+30%2B+Production+Enterprise+Codebases" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Creative+Full-Stack+Engineer+(React+19+%7C+Three.js);3D+Web+Experiences+(React+Three+Fiber+%7C+GSAP);Real-Time+Distributed+Backends+(WebSockets+%7C+Redis);Computer+Vision+%26+Mobile+Architect+(YOLOv8+%7C+Expo)" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/roshan749997"><img src="https://img.shields.io/badge/Total_Commits-1%2C780%2B-blue?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" /></a>
-  <a href="https://github.com/roshan749997"><img src="https://img.shields.io/badge/Pull_Requests-110%2B-purple?style=for-the-badge&logo=github&logoColor=white" alt="PRs" /></a>
-  <a href="https://github.com/roshan749997"><img src="https://img.shields.io/badge/Collaborated_Repos-31%2B-00b4d8?style=for-the-badge&logo=gitkraken&logoColor=white" alt="Collaborated Repos" /></a>
+  <a href="https://github.com/roshan749997"><img src="https://img.shields.io/badge/Total_Commits-1%2C780%2B-00b4d8?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" /></a>
+  <a href="https://github.com/roshan749997"><img src="https://img.shields.io/badge/Pull_Requests-110%2B-7209b7?style=for-the-badge&logo=github&logoColor=white" alt="PRs" /></a>
+  <a href="https://github.com/roshan749997"><img src="https://img.shields.io/badge/Production_Codebases-31%2B-4361ee?style=for-the-badge&logo=gitkraken&logoColor=white" alt="Codebases" /></a>
   <a href="https://github.com/roshan749997"><img src="https://komarev.com/ghpvc/?username=roshan749997&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /></a>
 </p>
 
@@ -23,26 +24,41 @@
 
 ---
 
-## 👨‍💻 Engineering Profile & Overview
+## ✨ Featured Spotlight: 3D Sketch Portfolio Experience
 
-Full-Stack Software Engineer and Applied AI developer with **over 1,780+ production commits** across personal flagships and **31+ multi-organization partner repositories**. Experienced in engineering high-throughput web apps (React 19, Next.js, Express, MongoDB), cross-platform mobile suites (React Native, Expo SDK 54), real-time gaming engines, and Computer Vision pipelines (YOLOv8, PyTorch).
+<div align="center">
 
-* ⚡ **Frontend & Modern Web:** React 19, Next.js 15 (App Router), TypeScript, Tailwind CSS v4, Vite, TanStack Query.
-* 🛠️ **Backend Microservices & APIs:** Node.js, Express 5, Mongoose, RESTful architecture, JWT Auth, Docker Compose.
-* 📱 **Mobile & AI Proctoring:** React Native, Expo SDK 54, hardware camera streaming, real-time facial tracking.
-* 🤖 **AI & Vision Solutions:** Custom fine-tuned YOLOv8 object detection models, PyTorch, Streamlit, Google Gemini API.
+| 🖼️ Interactive 3D Sketch World | 🚀 Technologies & Architecture |
+| :--- | :--- |
+| **An immersive, hand-drawn 3D sketchbook portfolio** that transforms developer showcases into an interactive spatial experience with 3D rooms and physical camera navigation. | • **React 19 & Vite 8.1**<br />• **Three.js & React Three Fiber (R3F 9.6)**<br />• **GSAP 3.15 Smooth Animations**<br />• **Spatial Audio & Custom GLTF Shaders** |
+
+</div>
 
 ---
 
-## 🛠️ Comprehensive Tech Stack Matrix
+## 🛠️ Creative & Engineering Capabilities
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,tailwind,vite,redux,python,pytorch,postman,git,github,vscode,docker,figma&theme=dark&perline=9" alt="Skills Matrix" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,threejs,nodejs,express,mongodb,tailwind,vite,redux,python,pytorch,postman,git,github,vscode,docker,figma&theme=dark&perline=10" alt="Tech Stack" />
 </p>
+
+<br />
+
+```
+┌──────────────────────────────┬──────────────────────────────┬──────────────────────────────┐
+│  🎨 3D & Creative Frontend   │  ⚡ Real-Time Distributed    │  📱 Mobile & Computer Vision │
+├──────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
+│ • React 19 & Next.js 15      │ • Node.js & Express 5        │ • React Native (0.81)        │
+│ • Three.js & R3F (Fiber)     │ • Redis Pub/Sub & WebSockets │ • Expo SDK 54 & Native APIs  │
+│ • GSAP ScrollTrigger         │ • STOMP & Socket.IO (sub-10ms│ • YOLOv8 Object Detection    │
+│ • Tailwind CSS v4 & Vite     │ • MongoDB & Mongoose 8       │ • PyTorch & Streamlit Apps   │
+│ • TypeScript & TanStack Query│ • Docker Compose & AWS EC2   │ • Google Gemini Generative AI│
+└──────────────────────────────┴──────────────────────────────┴──────────────────────────────┘
+```
 
 ---
 
-## 🐍 Contribution Activity & Animated Snake Graph
+## 🐍 Contribution Activity & Snake Animation
 
 <p align="center">
   <picture>
@@ -73,67 +89,53 @@ Full-Stack Software Engineer and Applied AI developer with **over 1,780+ product
 
 ---
 
-## 🤝 Featured Collaborator & Enterprise Codebases (31+ Repositories)
+## 🤝 Enterprise Systems & Multi-Project Collaboration (31+ Codebases)
 
-Active core collaborator and team developer across enterprise agencies, product studios, and client systems:
+### 🏢 1. Gamotech Enterprise Cloud, CRM & Wholesale FinTech
+> **Multi-Tenant Real Estate CRM &bull; B2B Wholesale Commerce &bull; Distributed Event Engines**
 
-<div align="center">
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/kodeosoftwaretechnology/Vidyank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kodeosoftwaretechnology&repo=Vidyank&theme=tokyonight&hide_border=true" width="100%" alt="Vidyank Exam" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/GamotechRepositories/Ezgo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GamotechRepositories&repo=Ezgo&theme=tokyonight&hide_border=true" width="100%" alt="Ezgo Platform" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/GamotechRepositories/CRM">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GamotechRepositories&repo=CRM&theme=tokyonight&hide_border=true" width="100%" alt="Enterprise CRM" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/GamotechSofta/offlineGame2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GamotechSofta&repo=offlineGame2&theme=tokyonight&hide_border=true" width="100%" alt="Offline Game System" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/digitalbuddiesspune/researchMorePublication">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=digitalbuddiesspune&repo=researchMorePublication&theme=tokyonight&hide_border=true" width="100%" alt="Research Publication" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/PrajwalKamdi/Dynamic-World">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrajwalKamdi&repo=Dynamic-World&theme=tokyonight&hide_border=true" width="100%" alt="Dynamic World" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-### 🏢 Deep-Dive Breakdown of Collaborative Contributions
-
-| Organization & Project | Architecture & Tech Stack | My Engineering Contributions & Impact |
-| :--- | :--- | :--- |
-| **Kodeo Software Technology**<br />[`kodeosoftwaretechnology/Vidyank`](https://github.com/kodeosoftwaretechnology/Vidyank)<br />[`kodeosoftwaretechnology/Vidyank_Exam_Application`](https://github.com/kodeosoftwaretechnology/Vidyank_Exam_Application) | `TypeScript` &bull; `React Native`<br />`Expo SDK 54` &bull; `Face API`<br />`SendGrid` &bull; `Twilio` | **Mobile Architecture & Anti-Cheating Engine:** Engineered hardware camera stream verification, facial presence tracking, multi-screen navigation locks, and instant SMS/Email candidate verification. |
-| **Gamotech Enterprise**<br />[`GamotechRepositories/CRM`](https://github.com/GamotechRepositories/CRM) | `React` &bull; `Node.js`<br />`Express` &bull; `MongoDB`<br />`Multi-Portal Setup` | **Multi-Tenant Sales & Real-Estate CRM:** Built centralized client dashboard and segregated portals (`mahaProperties`, `bangarProperties`, `salesTechReality`, `meeting_app`) for automated lead management. |
-| **Gamotech Enterprise**<br />[`GamotechRepositories/Ezgo`](https://github.com/GamotechRepositories/Ezgo)<br />[`GamotechRepositories/BulkMobileMart`](https://github.com/GamotechRepositories/BulkMobileMart) | `TypeScript` &bull; `React`<br />`Docker Compose`<br />`Admin & Vendor Portals` | **Multi-Vendor Booking & B2B Wholesale:** Built modular architecture with isolated `admin-portal`, `vendor-portal`, and backend services configured for unified Docker Compose deployment. |
-| **Gamotech Softa**<br />[`GamotechSofta/offlineGame2`](https://github.com/GamotechSofta/offlineGame2)<br />[`GamotechRepositories/Rummy`](https://github.com/GamotechRepositories/Rummy) | `JavaScript` &bull; `Node.js`<br />`Real-Time Engine`<br />`Render Cloud Spec` | **93+ Production Commits:** Developed real-time multi-role gaming architecture with synchronized state across `admin`, `superbookie`, `bookie`, `frontend`, and live result broadcasts. |
-| **Digital Buddies Pune**<br />[`digitalbuddiesspune/researchMorePublication`](https://github.com/digitalbuddiesspune/researchMorePublication)<br />[`digitalbuddiesspune/vidyank`](https://github.com/digitalbuddiesspune/vidyank)<br />[`digitalbuddiesspune/Doormart1`](https://github.com/digitalbuddiesspune/Doormart1) | `React` &bull; `Express`<br />`Mongoose` &bull; `RBAC`<br />`Admin / Staff Portals` | **Academic Publishing & Retail Platforms:** Developed peer-reviewed manuscript submission tracking, staff evaluation portals, and DoorMart on-demand retail commerce frontend. |
-| **Partner Product Initiatives**<br />[`PrajwalKamdi/PravaraHealthClinic`](https://github.com/PrajwalKamdi/PravaraHealthClinic)<br />[`Rishikesh5577/TickNTrack`](https://github.com/Rishikesh5577/TickNTrack)<br />[`Growwcode/Growwcode.com`](https://github.com/Growwcode/Growwcode.com) | `React` &bull; `Node.js`<br />`Recharts` &bull; `REST APIs`<br />`Sprint Productivity` | **Healthcare Portals & Productivity Apps:** Implemented clinical appointment scheduling, doctor time allocations, developer task tracking boards, and agency platforms. |
+```
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ 🚀 Gamotech Enterprise CRM & Sales Automation Suite                                              │
+│ • Stack: React 19, Node.js, Express, MongoDB, WebSocket, Redis                                  │
+│ • Architecture: Multi-tenant CRM with isolated client portals (MahaProperties, BangarProperties,│
+│   AdsResearch, SalesTechReality) processing 100k+ asynchronous background job events.           │
+│ • Latency & Scale: Sub-20ms WebSocket live broadcast latency with 99.9% uptime.                 │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ 📦 BulkMobileMart - B2B Wholesale Commerce Platform                                             │
+│ • Stack: React 19, Flutter, Express.js, MongoDB, Razorpay UPI, Envia Shipping API, AWS S3      │
+│ • Engineering: Tiered wholesale pricing matrices, MOQ carton validation, automated shipping     │
+│   label generation, and sub-second UPI webhook payment reconciliation.                          │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ 🎮 Real-Time Gaming Engine & Event Hub (GamotechSofta/offlineGame2 - 93+ Commits)                │
+│ • Stack: JavaScript, Node.js, Socket.IO, STOMP over WebSocket, PM2, Render Cloud                │
+│ • Scope: Multi-tier real-time gaming backend synchronizing Admin, SuperBookie, Bookie, and live │
+│   result channels simultaneously with zero connection drops.                                    │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🌟 Top Flagship Independent Projects
+### 🎓 2. Kodeo Software Technology & Digital Buddies &bull; EdTech & Mobile Systems
+> **AI Facial Proctoring &bull; Secure Exam Navigation &bull; Scholarly Publishing Portals**
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ 📱 Vidyank Mobile Examination Client (kodeosoftwaretechnology/Vidyank)                           │
+│ • Stack: TypeScript, React Native, Expo SDK 54, Face Detector API, SendGrid, Twilio             │
+│ • Engineering: Hardware camera stream verification, continuous facial presence monitoring,      │
+│   strict navigation exit guards, and candidate two-factor verification.                         │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ 📚 Research More Publication Hub (digitalbuddiesspune/researchMorePublication)                  │
+│ • Stack: React, Express, MongoDB, Role-Based Access Control (Admin / Staff / Author)            │
+│ • Scope: Scientific journal manuscript submission workflow, peer review indexing, and digital   │
+│   article catalog management.                                                                   │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🌟 Visual Showcase: Featured Flagship Projects
 
 <div align="center">
 
@@ -181,9 +183,9 @@ Active core collaborator and team developer across enterprise agencies, product 
 ---
 
 <div align="center">
-  <h3>🤝 Open to Innovative Engineering Projects & Full-Time Roles</h3>
+  <h3>🤝 Let's Build Something Extraordinary Together!</h3>
   <p>
-    Interested in collaborating on high-impact full-stack web, cross-platform mobile, or AI/Computer Vision architectures? Let's connect!
+    Available for high-impact full-stack software engineering, interactive 3D web experiences, and AI product collaborations.
   </p>
   <a href="mailto:roshanchaudhari4145@gmail.com"><img src="https://img.shields.io/badge/Send_Email-roshanchaudhari4145%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Roshan" /></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_Roshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
